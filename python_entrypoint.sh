@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-python_entrypoint.py >> $GITHUB_OUTPUT
+python3 python_entrypoint.py >> $GITHUB_OUTPUT
